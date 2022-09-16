@@ -1,0 +1,47 @@
+.start{
+    width: 200px;
+    height: 50px;
+    border-image-width: 20;
+    text-align: left;
+}
+.startn{
+
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;W
+    
+}
+.search{
+    text-align: right;
+}
+/* LOGIN BuTTON Changing! */
+.BTN{
+    background-color: aqua;
+    border-radius: 20%;
+    color: red;
+
+
+}
+.class{
+    display: inline ;   
+    font-size: 1.1em;
+    margin: 0;
+    margin-bottom: 10px;
+    display: inline-block;
+    margin-right: 1em;
+}
+/* about campus cheif */
+#cheif{
+    text-align: right;
+}
+/* image section */
+.img{
+    height: 200px;
+    width: 500px;
+}
+/* intro */
+.intro{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1cm;
+}
